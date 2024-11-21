@@ -1,0 +1,26 @@
+{
+  "name": "apistic-public",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/souhailaS/APISTIC-public.git"
+  },
+  "author": "souhaila serbout",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/souhailaS/APISTIC-public/issues"
+  },
+  "homepage": "https://github.com/souhailaS/APISTIC-public#readme",
+  "description": "",
+  "dependencies": {
+    "@readme/openapi-parser": "^2.6.0",
+    "axios": "^1.7.7",
+    "json-schema-compare": "^0.2.2",
+    "swagger2openapi": "^7.0.8"
+  }
+}
